@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/React-ventas-Rapido/static/css/main.1b97630f.css",
-    "main.js": "/React-ventas-Rapido/static/js/main.a3eeb2ad.js",
+    "main.js": "/React-ventas-Rapido/static/js/main.e2fbf634.js",
     "static/js/453.11f27bff.chunk.js": "/React-ventas-Rapido/static/js/453.11f27bff.chunk.js",
     "index.html": "/React-ventas-Rapido/index.html",
     "main.1b97630f.css.map": "/React-ventas-Rapido/static/css/main.1b97630f.css.map",
-    "main.a3eeb2ad.js.map": "/React-ventas-Rapido/static/js/main.a3eeb2ad.js.map",
+    "main.e2fbf634.js.map": "/React-ventas-Rapido/static/js/main.e2fbf634.js.map",
     "453.11f27bff.chunk.js.map": "/React-ventas-Rapido/static/js/453.11f27bff.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1b97630f.css",
-    "static/js/main.a3eeb2ad.js"
+    "static/js/main.e2fbf634.js"
   ]
 }
